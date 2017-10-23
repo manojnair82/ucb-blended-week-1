@@ -1,0 +1,38 @@
+	/* Comments are different in CSS */
+
+	h1{
+		margin-bottom: 15px;
+		margin-top: 15px;
+		font-size: 60px;
+		background-color: black;
+		font-weight: bold;
+		color: white;
+		text-align: center;
+	}
+
+	h2{
+		margin-bottom: 15px;
+		margin-top: 15px;
+		font-size: 40px;
+		font-weight: bold;
+		color: blue;
+		text-align: left;
+		}
+
+	p{
+		font-family: sans-serif,sans-serif;
+		float: right;
+	}
+
+	ul{border-width: 5px;
+		border-style: solid;
+		border-spacing: 50px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		
+		
+		}
+
+	#pic{
+		float: left;
+	}

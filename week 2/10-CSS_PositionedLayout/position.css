@@ -1,0 +1,35 @@
+/* CSS for Positioning exercise */
+
+.box{
+	padding-top: 20px;
+	background-color: blue;
+	width: 25%;
+
+}
+
+#outer{
+	height: 100%;
+
+}
+
+p{color: red;
+
+}
+
+.box1{
+	float: left;
+	height: 800px;
+
+
+}
+
+.box2{
+	float: left;
+	height: 100%;
+
+}
+
+.box3{
+	background-color: darkgrey;
+	float: left;
+}
